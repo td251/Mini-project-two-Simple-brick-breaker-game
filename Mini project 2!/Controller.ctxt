@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\n\ BreakOut\ controller,\ handles\ user\ interactions\n\ @author\ Mike\ Smith\ University\ of\ Brighton\n
+comment1.params=keyCode
+comment1.target=void\ userKeyInteraction(int)
+comment1.text=\n\ Decide\ what\ to\ do\ for\ each\ interaction\ from\ the\ user\n\ Called\ from\ the\ interaction\ code\ in\ the\ view\n\ @param\ keyCode\ The\ key\ pressed\n
+numComments=2
